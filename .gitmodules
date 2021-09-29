@@ -1,0 +1,3 @@
+[submodule "examples/cmake-first/custom/etl"]
+	path = examples/cmake-first/custom/etl
+	url = https://github.com/ETLCPP/etl.git
