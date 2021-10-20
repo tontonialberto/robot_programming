@@ -38,6 +38,7 @@ IteratorType_ split(IteratorType_ begin,
       ++lower;
     } else {
       // todo: anything to write here?
+      std::swap(v_upper, v_lower);
       ++upper; // incrementing a reverse iterator goes backwards
     }
   }
